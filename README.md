@@ -1,1 +1,5 @@
 # LIfe-Expectancy-Prediction
+Life expectancy refers to the number of years that an individual is expected to live, based on various factors such as their genetics, lifestyle, environmental factors, and access to healthcare. It is typically calculated based on the average lifespan of a group of people, usually within a particular country or region. Life expectancy can also be calculated for specific demographic groups, such as men or women, or for individuals with certain health conditions.
+
+The calculation of life expectancy is an important metric for public health officials, healthcare providers, and policymakers, as it can help to identify areas where healthcare resources are needed, and can also inform policy decisions related to healthcare and social services. Additionally, life expectancy can be a useful tool for individuals who want to make lifestyle changes or take steps to improve their health, as it can provide a target for them to aim for in terms of longevity.
+Here we implement Linear Regression to calculate the life expectancy of people.
